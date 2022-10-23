@@ -1,4 +1,4 @@
-CREATE SCHEMA IF NOT EXISTS bbddVet DEFAULT CHARACTER SET utf8 ;
+CREATE SCHEMA IF NOT EXISTS bbddVet;
 USE bbddVet ;
 
 -- -----------------------------------------------------
